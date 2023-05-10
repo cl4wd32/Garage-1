@@ -17,24 +17,10 @@ header *{
 }
 .logo{
 
-    position: absolute;
-    top: 5px;
-    left: 15px;
-    background-color: rgba(0, 0, 0, 100%);
-    border: 2px solid  rgb(69, 0, 0);
-    border-radius: 40px;
-    align-items: center;
-    text-decoration:none;
-    transition: 1s;
-    display:flex;
-    padding: 5px;
-    padding-right: 10px;
-    font-weight: bold;
+    
+    
 }
-.logo h1{
-    color:rgb(255, 0, 0);
-    margin-left: 5px;
-}
+
 .logo:hover{
     scale:110%;
     border-color: rgb(255, 0, 0);
