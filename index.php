@@ -25,7 +25,6 @@
                 <img src="images/multiplat.jpg" alt="">
                 <p>marque</p>
                 <p>imatriculation</p>
-                <p>jong</p>
             </div>
 
         </section>
