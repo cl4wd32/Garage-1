@@ -4,14 +4,15 @@
     <?php include_once 'include/head.php'?>
     <?php include_once 'include/header.php'?>
 
-    <body id="haut_de_page">
-        <h1 class="titre_page"><div class="titre_important">Garage</div></h1>
-        <section class="contenu">
+    <body>
+        
+        <section class="test2">
             <div>
-                <h2>Bienvenue</h2>
-                <div>
+                <div id="test">
                     Présentation rapide du Garage
                 </div>
+                <div id="test">Garage</div>
+                <div id="test">Bienvenue</div>
             </div>
         </section>
     </body>
